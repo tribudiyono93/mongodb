@@ -1,0 +1,9 @@
+###use database
+use databaseName
+
+###drop database
+use databaseName
+db.dropDatabase()
+
+###drop collection
+db.myCollection.drop()
