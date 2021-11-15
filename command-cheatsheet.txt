@@ -1,9 +1,9 @@
-###use database
+- use database
 use databaseName
 
-###drop database
+- drop database
 use databaseName
 db.dropDatabase()
 
-###drop collection
+- drop collection
 db.myCollection.drop()
